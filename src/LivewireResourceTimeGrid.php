@@ -124,7 +124,7 @@ class LivewireResourceTimeGrid extends Component
 
             'resourceColumnHeader' => 'h-full text-xs flex justify-center items-center',
 
-            'resourceColumnHourSlot' => 'border-b cursor-pointer',
+            'resourceColumnHourSlot' => 'border-b hover:bg-green-100 cursor-pointer',
 
             'eventWrapper' => 'absolute top-0 left-0',
 
